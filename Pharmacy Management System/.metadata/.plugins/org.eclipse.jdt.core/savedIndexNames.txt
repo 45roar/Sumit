@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+H:\Case Study\Pharmacy Management System\.metadata\.plugins\org.eclipse.jdt.core
+2957452430.index
+879943184.index
+943989422.index
+92593849.index
+1164164160.index
+3501656898.index
+1865797976.index
